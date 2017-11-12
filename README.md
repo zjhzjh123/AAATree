@@ -1,1 +1,3 @@
-# It is one homework in data structure. It implements AAA Tree.
+# AAA Tree
+
+It is one homework in data structure. It implements AAA Tree.
